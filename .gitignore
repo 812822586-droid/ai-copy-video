@@ -1,0 +1,20 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+.venv/
+venv/
+env/
+.env
+.env.*
+output/
+*.wav
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.log
+
+# 用户自行放置的字体，不提交
+fonts/*
+!fonts/README.txt
